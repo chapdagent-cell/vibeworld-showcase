@@ -8,11 +8,20 @@
   <img src="https://img.shields.io/badge/i18n-KO_|_EN-6366f1" alt="KO | EN">
   <img src="https://img.shields.io/badge/tests-500_passing-22c55e" alt="500 tests passing">
   <img src="https://img.shields.io/badge/coverage-85%25+-6366f1" alt="85%+ coverage">
+  <a href="https://vibeworld.sharebible.org">
+    <img src="https://img.shields.io/badge/Live_Demo-→-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+  </a>
 </p>
 
 <p align="center">
   <strong>앱 출시의 가장 큰 벽, 테스터 20명을 모아드립니다</strong><br>
   <sub>The hardest part of launching on Google Play — solved. Community-driven tester recruitment for vibe-coded apps.</sub>
+</p>
+
+<p align="center">
+  <a href="https://vibeworld.sharebible.org">
+    <img src="https://img.shields.io/badge/🌐_Visit_VibeWorld-지금_바로_이용하기-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4f46e5&color=818cf8" alt="Visit VibeWorld">
+  </a>
 </p>
 
 ---
@@ -189,6 +198,10 @@ AI 자동 모더레이션 → 관리자 수동 승인 단계를 거칩니다. �
 ---
 
 <p align="center">
+  <a href="https://vibeworld.sharebible.org">
+    <img src="https://img.shields.io/badge/🚀_Start_Testing_Now-vibeworld.sharebible.org-818cf8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4f46e5" alt="Start Testing Now">
+  </a>
+  <br><br>
   <sub>Built with vibe coding • Powered by Supabase & Cloudflare</sub><br>
-  <sub><a href="https://vibeworld.sharebible.org">vibeworld.sharebible.org</a> • <a href="mailto:musicbox26@gmail.com">Contact</a></sub>
+  <sub><a href="mailto:musicbox26@gmail.com">Contact</a></sub>
 </p>
