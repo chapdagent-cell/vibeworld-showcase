@@ -52,7 +52,7 @@ Register your app and enable "Tester Recruitment" — real users who are genuine
   <img src="screenshots/app-detail.png" alt="App Detail with Tester Banner" width="48%">
 </p>
 
-| App Detail — Tester recruitment banner + progress bar + one-click apply |
+| App Detail — Store links, screenshot gallery, star ratings, community discussion |
 |:--:|
 
 ## Core Features
